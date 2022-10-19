@@ -4,7 +4,7 @@ Technical Assignment for Perry
 
 **Details**
 - Create a new JavaScript application using any framework of your choice. Preferably Nuxt or Vue JS, but the choice is yours!
-- A user should be able to “log in” to the application as either an “employee” (somehow who is scheduled) or as a “admin” (somehow who makes the schedule)
+- A user should be able to “log in” to the application as either an “employee” (someone who is scheduled) or as a “admin” (someone who makes the schedule)
   - As authentication can be time consuming and typically requires a backend to support it, this can be as simple as a token stored as a Cookie or in Local Storage. However, feel free to implement the authentication in whichever way you choose.
 - An “employee” should be able to log in and view the Shifts on the schedule. The view can be a list of shifts, a calendar, or some other creative way to visualize the data of your choice. But the main idea is that they should be able to look at it and tell when they work.
 - An “admin” should be able to log in and view the schedule, as well as create, update, and delete Shifts.
