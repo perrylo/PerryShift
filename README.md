@@ -20,11 +20,13 @@ We use TailwindCSS for our styling, but feel free to use whatever system or UI L
 If any part of this assignment is blocking you from completing it, make a note about the situation and move on. We’d rather see something incomplete than nothing at all.
 
 **Deployment/Delivery**
+
 Source code should be pushed to the Github. You will be invited to this repo following this email, let us know if you have any issues with access.
 
 Ideally, the code will be pushed up in multiple commits so we may see your decision making process as you progress through the assignment.
 
 **Optional Features**
+
 If you complete the basic set of features described above and would like to take this application to the next level, here are some things that we would be impressed to see included:
 
 - A “Drag and Drop” interaction for creating/updating shifts on the schedule
