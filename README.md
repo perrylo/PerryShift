@@ -32,6 +32,16 @@ If you complete the basic set of features described above and would like to take
 - A consideration for users in different Timezones
 - A live version of the application accessible via the web. We use Heroku, but feel free to use other services such as Netlify, Vercel, etc.
 
+**Summary**
+
+This assignment is designed with the intention of ensuring candidates can sufficiently work through a set of requirements to build a usable web application. Communication is extremely important to us, and failure to complete this assignment entirely will not be considered a failure if your thought process and problem solving skills are documented and communicated back to us. This can be communicated via email, in code comments, git commit messages, a README, all of the above, or otherwise; this is up to you. The more we can gauge how you approach issues, the more easily we can evaluate your fit for this position.
+
+This assignment is also purposely designed to be somewhat vague. Creativity and self-starting is important and needed within our team. There are certainly details missing, but we implore you to use your best judgement and communicate your reasoning (commenting code perhaps)  in some way!
+
+
+
+Thanks! We look forward to see what you can do
+
 
 # Completed Application (Live)
 
